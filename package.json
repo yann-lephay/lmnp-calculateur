@@ -1,0 +1,26 @@
+{
+  "name": "lmnp-calculateur",
+  "version": "1.0.0",
+  "description": "Calculateur d'amortissements LMNP en TypeScript - Ventilation par composants, prorata temporis, Article 39 C",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": [
+    "lmnp",
+    "amortissement",
+    "fiscal",
+    "immobilier",
+    "location-meublee",
+    "france",
+    "declaration",
+    "impots",
+    "bic",
+    "calculateur"
+  ],
+  "author": "LMNP Facile <contact@lmnp-facile.fr>",
+  "license": "MIT",
+  "homepage": "https://lmnp-facile.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yann-lephay/lmnp-calculateur"
+  }
+}
